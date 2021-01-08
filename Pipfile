@@ -15,4 +15,4 @@ pyyaml = "==5.1.2"
 django-rest-swagger = "==2.2.0"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
